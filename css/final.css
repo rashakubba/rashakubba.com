@@ -230,9 +230,7 @@ footer .social a:hover {
 }
 
 /* CONTACT */
-.contact {
-  background: url(../images/background-8.jpg) no-repeat fixed;
-  background-size: cover;
+
 }
 .contact form {
   background: white;
