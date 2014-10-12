@@ -230,7 +230,9 @@ footer .social a:hover {
 }
 
 /* CONTACT */
-
+.contact {
+  background-color: #d8d8d8;
+  background-size: cover;
 }
 .contact form {
   background: white;
@@ -260,7 +262,12 @@ footer .social a:hover {
   background: #77D9D3;
   color: white;
   cursor: pointer;
+
+
 }
+.contact ul a {
+  display: inline-block;
+  padding: 0px 20px;
 
  /* BLOG */
 
