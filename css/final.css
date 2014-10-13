@@ -41,7 +41,7 @@ section {
   padding-top: 100px;
 }
 
-h1, h2 {
+h1, h2, h4 {
   margin: 0;
   font-weight: 300;
   text-transform: uppercase;
@@ -242,6 +242,8 @@ footer .social a:hover {
   font-family: "Pacifico", cursive;
   font-size: 32px;
 }
+
+.about h4 {text-align: center ; }
 
 /* CONTACT */
 .contact {
