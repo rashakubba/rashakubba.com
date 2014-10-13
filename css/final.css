@@ -52,6 +52,10 @@ h1 {
   font-family: "Nixie One", serif;
 }
 
+h3 {
+  font-family: "Pacifico", cursive;
+}
+
 a {
   color: #77D9D3;
   text-decoration: none;
@@ -174,23 +178,18 @@ footer .social a:hover {
   text-align: right;
   font-size: 20px;
 }
-.home nav:hover + .wrapper {
+.home nav{
   background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
 }
 .home nav:hover ul {
   display: block;
 }
-.home nav i {
+.home nav {
   cursor: pointer;
   padding: 20px;
   font-size: 40px;
-  color: #383838;
-}
-.home nav ul {
-  display: none;
-}
-.home nav li {
-  display: block;
+  color: #000000;
+
 }
 .home nav a {
   display: inline-block;
@@ -202,7 +201,7 @@ footer .social a:hover {
 }
 .home header {
   text-align: center;
-  padding-top: 100px;
+  padding-top: 300px;
 }
 .home header h1 {
   font-size: 120px;
@@ -210,6 +209,20 @@ footer .social a:hover {
 .home header h2 {
   font-size: 40px;
 }
+
+.home a {
+  color: #000000;
+  text-decoration: none;
+  transition: all 0.5s ease;
+}
+.home a:hover {
+  color: #77D9D3;}
+
+  .home footer a {
+  color: #77D9D3;
+  text-decoration: none;
+  transition: all 0.5s ease;
+
 
 /* ABOUT */
 .about .profile-image {
@@ -262,12 +275,19 @@ footer .social a:hover {
   background: #77D9D3;
   color: white;
   cursor: pointer;
-
-
 }
+
 .contact ul a {
   display: inline-block;
-  padding: 0px 20px;
+  padding: 0px 20px; 
+}
+
+
+.contact h3 { font-size: 15px;
+  color: black;
+  text-align: center; 
+}
+
 
  /* BLOG */
 
