@@ -93,7 +93,7 @@ header h2 {
 nav {
   position: absolute;
   right: 20px;
-  top: 20px;
+  top: 40px;
 }
 nav ul {
   margin: 0;
@@ -106,6 +106,7 @@ nav a {
   padding: 5px 15px;
   border-radius: 4px;
   text-transform: uppercase;
+  font-size: 20px; 
 }
 nav a:hover {
   background: rgba(0, 0, 0, 0.1);
@@ -166,6 +167,10 @@ footer .social a:hover {
   background-size: cover;
 
 }
+
+.home nav a {
+  font-size: 40px; }
+
 .home header {
   background: transparent;
   position: static;
@@ -280,7 +285,7 @@ footer .social a:hover {
   cursor: pointer;
 }
 
-.contact ul a {
+.bigicons ul a {
   display: inline-block;
   padding: 0px 20px; 
 }
