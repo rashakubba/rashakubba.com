@@ -71,7 +71,7 @@ a:hover {
 }
 
 .highlight {
-  color: #77D9D3;
+  color: #0ABAB5;
 }
 
 /* HEADER */
@@ -164,6 +164,7 @@ footer .social a:hover {
 .home {
   background: url(../images/uni.jpg) no-repeat;
   background-size: cover;
+
 }
 .home header {
   background: transparent;
@@ -179,7 +180,7 @@ footer .social a:hover {
   font-size: 20px;
 }
 .home nav{
-  background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
+  background: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0));
 }
 .home nav:hover ul {
   display: block;
@@ -196,7 +197,7 @@ footer .social a:hover {
   padding: 10px 20px;
 }
 .home nav a:hover {
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.9);
   border-radius: 4px;
 }
 .home header {
@@ -216,10 +217,10 @@ footer .social a:hover {
   transition: all 0.5s ease;
 }
 .home a:hover {
-  color: #77D9D3;}
+  color: #0ABAB5;}
 
   .home footer a {
-  color: #77D9D3;
+  color: #0ABAB5;
   text-decoration: none;
   transition: all 0.5s ease;
 }
