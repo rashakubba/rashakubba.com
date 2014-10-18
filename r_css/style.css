@@ -16,18 +16,18 @@ a:hover {
 /* BODY
 ----------*/
 body { 
-  background: url(../images/uni.jpg) no-repeat fixed;
+  background: url(../r_images/uni.jpg) no-repeat fixed;
   background-position:50%;
   background-size:100%;
   background-size: cover; 
   font-family: "Nixie One", serif;
   line-height: 1.5;
 }
-	h1,h2,h3 {
-		text-transform: uppercase;
-		font-family: 'Open Sans Condensed', sans-serif;
+  h1,h2,h3 {
+    text-transform: uppercase;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 400px
-	}
+  }
 
 h1 {
     font-size: 80px;
@@ -127,7 +127,7 @@ border-bottom: 2px solid;
   vertical-align: middle;
 }
 
-.skills {background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/background-1.jpg) no-repeat fixed;
+.skills {background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../r_images/background-1.jpg) no-repeat fixed;
   background-position:50%;
   background-size:100%;
   background-size: cover;}
@@ -173,7 +173,7 @@ width: 33%;}
 
 
 p {
-	font-family: Cambria, Georgia, serif;}
+  font-family: Cambria, Georgia, serif;}
 
 
 .download{ 
